@@ -1,0 +1,19 @@
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\redis_key_monitor.exe.config
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\redis_key_monitor.exe
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\redis_key_monitor.pdb
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\obj\Debug\redis_key_monitor.csprojResolveAssemblyReference.cache
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\obj\Debug\redis_key_monitor.exe
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\obj\Debug\redis_key_monitor.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\redis_key_monitor\redis_key_monitor\bin\Debug\redis_key_monitor.exe.config
+C:\Users\z\Documents\Visual Studio 2017\Projects\redis_key_monitor\redis_key_monitor\bin\Debug\redis_key_monitor.exe
+C:\Users\z\Documents\Visual Studio 2017\Projects\redis_key_monitor\redis_key_monitor\bin\Debug\redis_key_monitor.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\redis_key_monitor\redis_key_monitor\obj\Debug\redis_key_monitor.csprojResolveAssemblyReference.cache
+C:\Users\z\Documents\Visual Studio 2017\Projects\redis_key_monitor\redis_key_monitor\obj\Debug\redis_key_monitor.exe
+C:\Users\z\Documents\Visual Studio 2017\Projects\redis_key_monitor\redis_key_monitor\obj\Debug\redis_key_monitor.pdb
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\bin\Debug\redis_key_monitor.exe.config
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\bin\Debug\redis_key_monitor.exe
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\bin\Debug\redis_key_monitor.pdb
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\obj\Debug\redis_key_monitor.exe
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\obj\Debug\redis_key_monitor.pdb
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\bin\Debug\redis-cli.exe
+D:\BaiduYunDownload\redis_key_monitor(2)\redis_key_monitor\obj\Debug\redis_key_monitor.csprojResolveAssemblyReference.cache
