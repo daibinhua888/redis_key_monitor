@@ -1,0 +1,10 @@
+{
+	"ApplicationTitle":"redis key监听器",
+	"DisplayDataOnConsole":true,
+	"RedisCliPath":"redis-cli.exe",
+	"MonitorLogPath":"log.txt",
+	"KeysToMonitor":[],
+	"Redis":[
+				{"Address":"localhost","Port":6379,"Auth":null}
+			]
+}
